@@ -1,9 +1,6 @@
 created file.
 
 made a change in branch 1.
-<<<<<<< HEAD
 made another change in branch 1.
-=======
 
-made a change in master.
->>>>>>> 0b77f71... made a change in master
+made a change in master
